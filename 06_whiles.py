@@ -5,10 +5,9 @@ first = 5
 #     executable_statements
 
 while first > 0 :
-    print("while 값: ", first)
+    print(f"while 값 : {first}")
     if first == 3 :
         print("break 실행")
-        break 
+        break
     first = first - 1
-
-print("while 종료.")
+print("while 종료")
