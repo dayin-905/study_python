@@ -5,23 +5,23 @@
 # else:
 #     executed code  
 
-# first = 4
+first = 4
 
-# # if first >= 5 :
-# #     print("Welcome!")
-# #     print("It's me.")
+if first >= 5 :
+    print("Welcome!")
+    print("It's me.")
 
-# second = 6
+second = 6
 
-# first = int(input("input first number : "))
-# second = int(input("input second number : "))
+first = int(input("input first number : "))
+second = int(input("input second number : "))
 
-# if first >= second :
-#     print("Welcome!")
-#     print("It's me.")
+if first >= second :
+    print("Welcome!")
+    print("It's me.")
 
 
-# print("End of program.")
+print("End of program.")
 
 ## 다중 if-elif-else 예제
 age = int(input("input your age : "))
