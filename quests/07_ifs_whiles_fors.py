@@ -73,6 +73,4 @@ sum3 = 0
 for score in kor :
     if score >= 60 :
         sum3 = score + sum3
-    print("누적합 = ", sum3)
-
-
+    print(f"누적합 = {sum3}")
