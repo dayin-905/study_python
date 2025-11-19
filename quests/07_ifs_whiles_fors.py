@@ -47,6 +47,9 @@ sum1, sum2 = 0, 0
 total_scores = [0, 0, 0, 0, 0]
 avg_scores = [0.0, 0.0, 0.0, 0.0, 0.0]
 
+# total_scores = [0]
+# avg_scores = [0.0]
+
 for i in range(5) :
     # sum1 = kor[i] + sum1
     # sum2 = eng[i] + sum2
