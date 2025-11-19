@@ -3,20 +3,20 @@
 #     execute codes (변수 + 약속어) # 실행할 코드 
 #     return result_value
 
-# 점수 총합 함수 작성
-# kor = 60
-# eng = 70
-# math = 80
+점수 총합 함수 작성
+kor = 60
+eng = 70
+math = 80
 
-# sum = kor + eng
+sum = kor + eng
 
-# def get_sum(korean, english):
-#     # 실행할 코드
-#     summation = korean + english
-#     return summation
+def get_sum(korean, english):
+    # 실행할 코드
+    summation = korean + english
+    return summation
 
-# sum = get_sum(kor, eng)
-# print(f"총점: {sum}")
+sum = get_sum(kor, eng)
+print(f"총점: {sum}")
 
 # Parameter 증가하기
 # kor = 60
