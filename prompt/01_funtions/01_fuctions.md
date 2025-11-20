@@ -39,6 +39,7 @@
 ```
 
 ## json 형식 프롬프트 답변 결과(.py)
+```
 import json
 
 def calculate_all(num1, num2):
@@ -109,3 +110,4 @@ print("\n--- [JSON 출력] 최종 결과 (조건 1) ---")
 print(final_json_output)
 
 # 참고: VS Code에서 디버깅 시, 'test_results' 리스트에 딕셔너리가 추가되는 과정을 확인해보게.
+```
