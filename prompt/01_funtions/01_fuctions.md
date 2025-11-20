@@ -200,7 +200,7 @@ final_json_output = json.dumps(
 }
 ```
 
-3. 💾 VS Code 디버깅용 .py 파일 (조건 2)
+## 3. 💾 VS Code 디버깅용 .py 파일 (조건 2)
 
 아래 코드를 calculator.py 파일로 저장하면 VS Code에서 직접 실행 및 디버깅이 가능합니다.
 특히 test_results 리스트에 딕셔너리가 추가되는 과정을 살펴보면 데이터 처리 흐름을 명확히 이해할 수 있을 걸세.
