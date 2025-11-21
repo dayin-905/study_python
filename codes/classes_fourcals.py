@@ -7,11 +7,14 @@
 
 # 사칙연산 class 제작
 class FourCal:
+    # 속성(변수)
+    first = 0
+    second = 0
     # 메서드(함수)
     def __init__(self):
+        self.first = 4
+        self.second = 6
         pass
-
-    
     def add(self, a, b):
         return a + b
     def sub(self, a, b):
