@@ -8,6 +8,10 @@
 # 사칙연산 class 제작
 class FourCal:
     # 메서드(함수)
+    def __init__(self):
+        pass
+
+    
     def add(self, a, b):
         return a + b
     def sub(self, a, b):
